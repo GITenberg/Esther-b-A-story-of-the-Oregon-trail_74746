@@ -1,0 +1,44 @@
+_repo: Esther-b-A-story-of-the-Oregon-trail_74746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephens, Ann S. (Ann Sophia)
+    aliases:
+    - Stephens, Ann Sophia Winterbotham
+    - Slick, Jonathan
+    birthdate: 1810
+    deathdate: 1886
+    gutenberg_agent_id: '3257'
+    url: http://www.gutenberg.org/2009/agents/3257
+    wikipedia: https://en.wikipedia.org/wiki/Ann_S._Stephens
+description: ''
+gutenberg_issued: '2024-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74746'
+language: en
+pgterms:marc904: https://archive.org/details/04300980.1632.emory.edu
+pgterms:marc905: 20210126143910stephens
+pgterms:marc906: '1861'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bGeorge Routledge and Sons, $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Women pioneers -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'Indian women -- Fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Indian captivities -- Fiction'
+- !lcsh 'Latter Day Saints -- Fiction'
+- !lcsh 'Wagon trains -- Fiction'
+- !lcsh 'Oregon National Historic Trail -- Fiction'
+- !lcsh 'United States -- History -- 1783-1815 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Esther : $b A story of the Oregon trail'
+url: http://www.gutenberg.org/ebooks/74746
