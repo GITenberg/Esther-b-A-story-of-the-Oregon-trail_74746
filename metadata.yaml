@@ -1,5 +1,8 @@
 _repo: Esther-b-A-story-of-the-Oregon-trail_74746
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74746-h/images/cover.jpg
 creator:
   author:
     agent_name: Stephens, Ann S. (Ann Sophia)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3257
     wikipedia: https://en.wikipedia.org/wiki/Ann_S._Stephens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74746#Esther-b-A-story-of-the-Oregon-trail
 gutenberg_issued: '2024-11-16'
 gutenberg_type: Text
 identifiers:
